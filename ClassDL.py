@@ -61,9 +61,3 @@ class DoubleLinkedList:
             curr = curr.next
         curr.next = new_node
         curr.prev.next = None
-
-
-
-
-
-
