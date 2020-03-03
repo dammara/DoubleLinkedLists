@@ -49,7 +49,7 @@ myList.pop_end()
 print(myList)
 time.sleep(1)
 
-print("Watching this wasn't exciting, but finishing it was.")
+print("Watching this wasn't very exciting, but finishing it was.")
 time.sleep(1.3)
 print("Have a nice day!")
 time.sleep(2)
